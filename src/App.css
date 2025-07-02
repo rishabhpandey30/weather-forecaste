@@ -40,11 +40,11 @@
 }
 
 .app{
-  padding: 18vh 20%;
+  padding: 13vh 20%;
   height: 100vh;
 }
 
-.table {
+.table-custom {
   text-align: center;
 }
 
@@ -54,5 +54,5 @@
 }
 
 .my-heading{
-  margin-bottom: 6vh;
+  margin-bottom: 5vh;
 }
